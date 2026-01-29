@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(copy \"c:\\\\Users\\\\10028897\\\\Desktop\\\\Mindworx_dashboard.png\" \"c:\\\\Users\\\\10028897\\\\Desktop\\\\SOR Automation System\\\\web\\\\public\\\\mindworx-logo.png\")",
+      "Bash(python:*)"
+    ]
+  }
+}

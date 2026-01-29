@@ -1,0 +1,21 @@
+# SOR Automation System - Python Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+python-dotenv==1.0.0
+pymysql==1.1.0
+requests==2.31.0
+
+# PDF Generation
+reportlab==4.0.7
+Pillow>=10.0.0
+
+# Data Processing (optional, not used in current version)
+pandas==2.1.4
+numpy==1.26.2
+
+# Optional: For better SSL support
+cryptography==41.0.7
+
+# Note: tkinter usually comes with Python installation
+# If tkinter is missing, reinstall Python with tkinter support
